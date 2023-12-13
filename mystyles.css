@@ -1,0 +1,59 @@
+body{
+    background-image: url('https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png'); 
+    
+}
+
+.tableaustyle{
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin: 50px;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.header{
+    font-size:xx-large;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px white solid
+    position: absolute;
+
+}
+
+.footer{
+    position: fixed;
+    background-color: orangered
+    border-top: 1px white solid;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    font-style: bold;
+    font-size: large;
+}
+
+.mainstuff{
+    top: 70px;
+    bottom: 50px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+    font-size:large;
+}
+
+lineitem{
+    font-weight: bold;
+}
+
+h3{
+    text-decoration:underline;
+    color:orangered
+}
